@@ -2,7 +2,7 @@
 
 <img src="assets/logo_snake.png" alt="Snake Game Banner" width="50"/>
 
-![Version](https://img.shields.io/badge/version-1.0.0-darkgreen) ![Language](https://img.shields.io/badge/language-Java-darkgreen) ![Status](https://img.shields.io/badge/status-in%20development-darkgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-darkgreen) ![Language](https://img.shields.io/badge/language-Java-darkgreen) ![Status](https://img.shields.io/badge/status-first%20version-darkgreen)
 ![Stars](https://img.shields.io/github/stars/tu-usuario/tu-proyecto?style=social)
 
 
