@@ -3,7 +3,7 @@
 <img src="assets/logo_snake.png" alt="Snake Game Banner" width="50"/>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-darkgreen) ![Language](https://img.shields.io/badge/language-Java-darkgreen) ![Status](https://img.shields.io/badge/status-first%20version-darkgreen)
-![Stars](https://img.shields.io/github/stars/tu-usuario/tu-proyecto?style=social)
+![Stars](https://img.shields.io/github/stars/Luis3Fernando/Snake?style=social)
 
 
 This project is a version of the classic snake game, developed in Java. Control the snake, eat food and grow, but be careful not to crash into yourself! This project includes special features such as the use of parallel programming.
